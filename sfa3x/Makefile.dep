@@ -1,0 +1,1 @@
+USEMODULE += sensirion_i2c_common
